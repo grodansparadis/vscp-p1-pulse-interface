@@ -2,7 +2,9 @@
 
 P1 interface for smart meters to computer
 
-![P1 Interface card](images/p1-interface.png "P1 Interface Card")
+¡[Schema rev A](images/schema-rev-a.png)
+
+![PCB P1 Interface card](images/p1-interface.png "P1 Interface Card")
 
 Interface card for P1 based smartmeter to TTL serial interface.  
 
