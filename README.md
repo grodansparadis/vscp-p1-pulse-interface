@@ -2,7 +2,7 @@
 
 P1 interface for smart meters to computer
 
-¡[Schema rev A](images/schema-rev-a.png)
+![Schema rev A](images/schema-rev-a.png)
 
 ![PCB P1 Interface card](images/p1-interface.png "P1 Interface Card")
 
