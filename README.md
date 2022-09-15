@@ -8,6 +8,6 @@ P1 interface for smart meters to computer
 
 Interface card for P1 based smartmeter to TTL serial interface.  
 
-The PCB, assembled or bare, can be bought from http://www.grodanpsaradis.com
+The PCB, assembled or bare, can be bought from http://www.grodansparadis.com
 
 
