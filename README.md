@@ -1,6 +1,8 @@
-# vscp-p1-pulse-interface
+# vscp-p1-pulse-interface 
 
-P1 interface for smart meters to computer
+HAN P1 interface for smart meters to serial TTL.
+
+The PCB, assembled or bare, can be bought from http://www.grodansparadis.com
 
 ![Schema rev A](images/schema-rev-a.png)
 
@@ -8,6 +10,6 @@ P1 interface for smart meters to computer
 
 Interface card for P1 based smartmeter to TTL serial interface.  
 
-The PCB, assembled or bare, can be bought from http://www.grodansparadis.com
+
 
 
