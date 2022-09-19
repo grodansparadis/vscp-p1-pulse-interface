@@ -1,0 +1,5 @@
+HISTORY
+-------
+
+220919 - Rev B
+220919 - Q1 had wrong pinning.
