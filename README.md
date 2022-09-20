@@ -2,7 +2,7 @@
 
 HAN P1 interface for smart meters to serial TTL.
 
-The PCB, assembled or bare, can be bought from https://frogshop.se/
+There is a desciption [here](https://grodansparadis.com/wordpress/?p=5039) about my setup. The PCB, assembled or bare, can be bought from https://frogshop.se/
 
 ![Schema rev A](images/p1-interface-schema-rev-b.png)
 
