@@ -6,9 +6,9 @@ HAN P1 interface for smart meters to serial TTL. Should work with
 | ------  |
 | Sagemcom T211 / Ellevio & Skånska Energi |
 | Landis+Gyr E360 |
-| Itron A300 / Borås Elnät <
+| Itron A300 / Borås Elnät |
 | S34U18 (Sanxing SX631) / Vattenfall |
-| KAIFA MA304H4E / Nacka Energi |
+| KAIFA MA304H4**E** / Nacka Energi (Not **D** version which is modbus) |
 | KAIFA CL109 / Öresundskraft |
 | and more. |
 
