@@ -10,6 +10,7 @@ HAN P1 interface for smart meters to serial TTL. Should work with
 | S34U18 (Sanxing SX631) / Vattenfall |
 | KAIFA MA304H4**E** / Nacka Energi (Not **D** version which is modbus) |
 | KAIFA CL109 / Öresundskraft |
+| Kamstrup w/ HAN module / Trollhättan Energi |
 | and more. |
 
 There is a description [here](https://grodansparadis.com/wordpress/?p=5039) about my setup. 
